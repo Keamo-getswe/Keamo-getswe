@@ -1,9 +1,12 @@
-<h1>Hi, I'm Keamogetswe <br/><a href="https://github.com/Keamo-getswe">Aspiring SOC Analyst</a>, <a href="https://www.linkedin.com/in/keamogetswe-mphakalasi/">Cybersecurity Student</a>, <a href="https://keamo-getswe.github.io">Blogger</a></h1>
+<h1>Hi, I'm Keamogetswe <br/><a href="https://github.com/Keamo-getswe">Aspiring SOC Analyst</a>, <a href="https://www.linkedin.com/in/keamogetswe-mphakalasi/">Cybersecurity Student</a> & <a href="https://keamo-getswe.github.io">Blogger</a></h1>
 
 <h2>📃 Certifications:</h2>
 
-- <a href="https://www.credly.com/badges/873949cb-bc38-474d-8126-29700d75643b/public_url">Google Cybersecurity Professional</a>
 - <a>CompTIA Security+</a> (<i>In Progress</i>)
+
+<h2>Additional Training</h2>
+
+- <a href="https://www.credly.com/badges/873949cb-bc38-474d-8126-29700d75643b/public_url">Google Cybersecurity Professional Certificate</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
