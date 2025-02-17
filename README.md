@@ -17,7 +17,7 @@
 
 <h2>🖊️ Top Blog Posts</h2>
 
-- [My First Network Intrusion Detection System]()
+- [My First Network Intrusion Detection System]() (<i>In Progress</i>)
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/keamogetswe-mphakalasi"><img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> LinkedIn
