@@ -13,7 +13,7 @@
 - <b>Python</b>
   - [A Semi-Supervised Network Intrusion Detection System](https://github.com/keamo-getswe/The-NIDS)
 - <b>Suricata Lab</b>
-  - <a>Threat Detection and Performance Tuning</a> (<i>In Progress</i>)
+  - [Threat Detection and Performance Tuning](https://github.com/Keamo-getswe/suricata-lab) (<i>In Progress</i>)
 
 <h2>🖊️ Top Blog Posts</h2>
 
