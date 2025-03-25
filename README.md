@@ -12,12 +12,14 @@
 
 - <b>Python</b>
   - [A Semi-Supervised Network Intrusion Detection System](https://github.com/keamo-getswe/The-NIDS)
-- <b>Suricata Lab</b>
-  - [Threat Detection and Performance Tuning](https://github.com/Keamo-getswe/suricata-lab) (<i>In Progress</i>)
+- <b>Ubuntu + Suricata</b>
+  - [Threat Detection and Attack Simulation Lab](https://github.com/Keamo-getswe/suricata-lab) (<i>In Progress</i>)
+- <b>Windows + Splunk</b>
+  - [Log analysis and Web Exploitation Lab](https://github.com/Keamo-getswe/splunk-lab)  (<i>TODO</i>)
 
 <h2>🖊️ Top Blog Posts</h2>
 
-- [My First Network Intrusion Detection System]() (<i>In Progress</i>)
+- [My First Network Intrusion Detection System]() (<i>TODO</i>)
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/keamogetswe-mphakalasi"><img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> LinkedIn
