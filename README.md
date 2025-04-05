@@ -1,4 +1,4 @@
-<h1>Hi, I'm Keamogetswe <br/><a href="https://github.com/Keamo-getswe">Aspiring Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/keamogetswe-mphakalasi/">Cybersecurity Student</a> & <a href="https://keamo-getswe.github.io">Blogger</a></h1>
+<h1>Hi, I'm Keamogetswe <br/><a href="https://github.com/Keamo-getswe">Aspiring Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/keamogetswe-mphakalasi/">Post Graduate Student</a> & <a href="https://keamo-getswe.github.io">Blogger</a></h1>
 
 <h2>⭐ Certifications:</h2>
 
