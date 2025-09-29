@@ -16,8 +16,6 @@
   - [Threat Detection and Attack Simulation Lab](https://github.com/Keamo-getswe/suricata-lab)
 - <b>Kali Hacking Exercise</b>
   - [Now You See Me: Assessing the Security of Home Security Camera Systems](https://github.com/Keamo-getswe/security-camera-assessment)
-- <b>Windows + Splunk</b>
-  - [Log analysis and Web Exploitation Lab](https://github.com/Keamo-getswe/splunk-lab)  (<i>TODO</i>)
 
 <h2>🖊️ Top Blog Posts</h2>
 
